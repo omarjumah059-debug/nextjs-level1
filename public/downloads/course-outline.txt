@@ -1,0 +1,5 @@
+CourseSpace sample outline
+
+Week 1: Routing and layouts
+Week 2: Server and client components
+Week 3: Data fetching and metadata
